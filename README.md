@@ -1,2 +1,2 @@
-# jobexpress_api_service
-jobexpress_api_service
+# ojt_api
+This repository is used for maintaing the OJT team Back end source code (API) 
